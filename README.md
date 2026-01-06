@@ -1,18 +1,20 @@
 Hi. My name is Igor Panarin.  
 
-If you need DevOps Engineer, you are Welcome!  
+If you need Security Engineer, you are Welcome!  
 
 ---
 * 🌍  I'm based in Russia, Orel
-* 🧠  I'm certified devops and network engineer
+* 🧠  I'm certified Information Security Specialist
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
 
-* Ansible Docker Kubernetes Vagrant Terraform
-* Git GitLab
-* Prometheus Grafana
-* Python Go (in progress)
+* Red, blue, purple team
+* Vulnerability and Exposure Management
+* Penetration testing
+* CyberEd certified White hat
+* CyberEd certified Cyber attack countermeasures specialist
+* Kraken Academy CWPS - Certified Web Pentest Specialist
 
 ### My certificates
 [Certificates](https://github.com/networksuperman/my_certs/blob/main/README.md)  
