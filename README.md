@@ -7,6 +7,8 @@ If you need Security Engineer, you are Welcome!
 * 🧠  I'm certified Information Security Specialist
 * 🤝  I'm open to collaborating on interesting projects
 
+I know how to make your infrastructure more secure
+
 ### Skills
 
 * Red, blue, purple team
