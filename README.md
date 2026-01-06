@@ -26,9 +26,9 @@ If you need DevOps Engineer, you are Welcome!
 
 ### CTF and so on 
 
-![](https://github.com/m0nr0e21/networksuperman/blob/main/img/2026-01-06_03-44-01.png)  
+![](https://github.com/m0nr0e21/networksuperman/blob/main/img/2026-01-06_03-44-01.png | width=100)  
 
-![](https://github.com/m0nr0e21/networksuperman/blob/main/img/2026-01-06_03-44-01.png)  
+![](https://github.com/m0nr0e21/networksuperman/blob/main/img/photo_2026-01-04_15-53-54.jpg | width=100)  
   
 📈 GitHub Stats</h2>
 
