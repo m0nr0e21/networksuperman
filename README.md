@@ -18,6 +18,11 @@ I know how to make your infrastructure more secure
 ### My certificates and diplomas
 [Certificates](https://github.com/networksuperman/my_certs/blob/main/README.md)  
 
+### Conferences, podcasts and publications
+[]()  
+[]()  
+[]()  
+
 ### Socials
 [Site](https://devopslife.ru/)  
 
@@ -31,10 +36,5 @@ I know how to make your infrastructure more secure
 
 <img src="https://github.com/m0nr0e21/networksuperman/blob/main/img/photo_2026-01-04_15-53-54.jpg" width="700" height="600">
   
-📈 GitHub Stats</h2>
-
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=networksuperman)](https://github.com/LordDashMe/github-contribution-stats/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=networksuperman)](https://github.com/anuraghazra/github-readme-stats)  
 
 
