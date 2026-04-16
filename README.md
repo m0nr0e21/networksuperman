@@ -11,6 +11,8 @@ I know how to make your infrastructure more secure
 * Red, blue, purple team
 * Vulnerability and Exposure Management
 * Penetration testing
+* Certified Technical Information Security Specialist
+* Certified DevOps Engineer
 * CyberEd certified White hat
 * CyberEd certified Cyber attack countermeasures specialist
 * Kraken Academy CWPS - Certified Web Pentest Specialist
