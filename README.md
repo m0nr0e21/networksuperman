@@ -22,11 +22,15 @@ I know how to make your infrastructure more secure
 
 ### Conferences, podcasts and publications
 [Амбассадор](https://kraken-academy.ru/ambassador/m0nr0e21/)  
+  
 [Как одна форма обратной связи привела к компрометации helpdesk-учетки банка](https://habr.com/ru/companies/pt/articles/996352/)  
+  
 [Эфир на Радио Экспресс о том, как защититься от мощенников](https://vk.com/wall-10475651_80917)  
+  
 [Кибербезопасность с нуля: честный разговор с пентестером с 10-летним опытом](https://www.youtube.com/watch?v=2_xAJFlKu8Y)    
 [Яндекс Музыка](https://music.yandex.ru/track/147070091)  
 [Rutube](https://rutube.ru/video/932ad1cfacf173070064501f9ab417e0/)   
+  
 [Стоит ли идти в кибербезопасность? Честный разговор с пентестером m0nr0e21 - продолжение](https://youtu.be/F-jk-kD7wGY)  
 [Яндекс Музыка](https://music.yandex.ru/album/36513691/track/147328097)  
 
