@@ -34,6 +34,10 @@ I know how to make your infrastructure more secure
 
 ### CTF and so on 
 
+[Standoff365](https://standoff365.com/profile/chamenetwork)  
+
+[HackTheBox](https://app.hackthebox.com/users/1197700)  
+
 <img src="https://github.com/m0nr0e21/networksuperman/blob/main/img/2026-01-06_03-44-01.png" width="700" height="600">
 
 <img src="https://github.com/m0nr0e21/networksuperman/blob/main/img/photo_2026-01-04_15-53-54.jpg" width="700" height="600">
