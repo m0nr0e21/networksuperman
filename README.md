@@ -1,9 +1,6 @@
-Hi. My name is Igor Panarin.  
-
-If you need Security Engineer, you are Welcome!  
+Hi. My name is Igor Panarin.  I currently work as Head of Security Analysis Department.
 
 ---
-* 🌍  I'm based in Russia, Orel
 * 🧠  I'm certified Information Security Specialist
 * 🤝  I'm open to collaborating on interesting projects
 
@@ -18,7 +15,7 @@ I know how to make your infrastructure more secure
 * CyberEd certified Cyber attack countermeasures specialist
 * Kraken Academy CWPS - Certified Web Pentest Specialist
 
-### My certificates
+### My certificates and diplomas
 [Certificates](https://github.com/networksuperman/my_certs/blob/main/README.md)  
 
 ### Socials
