@@ -21,8 +21,6 @@ I know how to make your infrastructure more secure
 [Certificates](https://github.com/networksuperman/my_certs/blob/main/README.md)  
 
 ### Conferences, podcasts and publications
-[Амбассадор](https://kraken-academy.ru/ambassador/m0nr0e21/)  
-  
 [Как одна форма обратной связи привела к компрометации helpdesk-учетки банка](https://habr.com/ru/companies/pt/articles/996352/)  
   
 [Эфир на Радио Экспресс о том, как защититься от мощенников](https://vk.com/wall-10475651_80917)  
