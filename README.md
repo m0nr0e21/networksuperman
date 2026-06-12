@@ -1,6 +1,6 @@
 Hi. My name is Igor Panarin.  I currently work as Head of Security Analysis Department.
 
-![](https://github.com/m0nr0e21/networksuperman/blob/main/img/2026-06-12_15-49-44.png)
+![](https://github.com/m0nr0e21/networksuperman/blob/main/img/2026-06-12_15-53-22.png)
 ---
 * 🧠  I'm certified Information Security Specialist
 * 🤝  I'm open to collaborating on interesting projects
