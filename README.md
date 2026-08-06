@@ -44,7 +44,7 @@ I know how to make your infrastructure more secure
 
 ### Public speaking
 <img src="https://github.com/m0nr0e21/networksuperman/blob/main/img/standoff-speaker.jpg" width="800" height="700">
-<img src="https://github.com/m0nr0e21/networksuperman/blob/main/img/hack-camp-speaker.jpg" width="800" height="600">
+<img src="https://github.com/m0nr0e21/networksuperman/blob/main/img/hack-camp-speaker.jpg" width="600" height="800">
 <img src="https://github.com/m0nr0e21/networksuperman/blob/main/img/ib-rock-stars.jpg"  
 
   
