@@ -18,7 +18,7 @@ I know how to make your infrastructure more secure
 * CyberEd certified White hat
 * CyberEd certified Cyber attack countermeasures specialist
 * Kraken Academy CWPS - Certified Web Pentest Specialist
-* 
+
 ---
 ### My certificates and diplomas
 [Certificates](https://github.com/networksuperman/my_certs/blob/main/README.md)  
