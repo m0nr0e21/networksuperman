@@ -44,7 +44,8 @@ I know how to make your infrastructure more secure
 
 ### Public speaking
 ![](https://github.com/m0nr0e21/networksuperman/blob/main/img/ib-rock-stars.jpg)  
-![](https://github.com/m0nr0e21/networksuperman/blob/main/img/pt-carbon.jpg)  
+![](https://github.com/m0nr0e21/networksuperman/blob/main/img/standoff-speaker.jpg)  
+![](https://github.com/m0nr0e21/networksuperman/blob/main/img/hack-camp-speaker.jpg)  
 
 ### CTF and so on 
 
