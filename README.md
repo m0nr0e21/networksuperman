@@ -6,7 +6,7 @@ Hi. My name is Igor Panarin.  I currently work as Head of Security Analysis Depa
 * 🤝  I'm open to collaborating on interesting projects
 
 I know how to make your infrastructure more secure
-
+---
 ### Skills
 
 * Red, blue, purple team
@@ -17,10 +17,10 @@ I know how to make your infrastructure more secure
 * CyberEd certified White hat
 * CyberEd certified Cyber attack countermeasures specialist
 * Kraken Academy CWPS - Certified Web Pentest Specialist
-
+---
 ### My certificates and diplomas
 [Certificates](https://github.com/networksuperman/my_certs/blob/main/README.md)  
-
+---
 ### Conferences, podcasts and publications
 [Статья на SecurityLab.ru - Темные паттерны в управлении уязвимостями: как метрики ломают безопасность](https://www.securitylab.ru/analytics/575607.php)  
 
@@ -34,14 +34,14 @@ I know how to make your infrastructure more secure
   
 [Стоит ли идти в кибербезопасность? Честный разговор с пентестером m0nr0e21 - продолжение](https://youtu.be/F-jk-kD7wGY)  
 [Яндекс Музыка](https://music.yandex.ru/album/36513691/track/147328097)  
-
+---
 ### Socials
 [Site](https://devopslife.ru/)  
 
 [TG channel](https://t.me/devopslife)  
 
 <h2 dir="auto"><a id="user-content--github-stats" class="anchor" aria-hidden="true" tabindex="-1" href="#-github-stats"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>
-
+---
 ### Public speaking
 #### Выступление на юбилейном Standoff 17 на тему Exposure Management
 
@@ -54,7 +54,7 @@ I know how to make your infrastructure more secure
 
 <img src="https://github.com/m0nr0e21/networksuperman/blob/main/img/ib-rock-stars.jpg">   
 
-  
+---
 ### CTF and so on 
 
 [Standoff365](https://standoff365.com/profile/chamenetwork)  
