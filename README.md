@@ -73,7 +73,7 @@ I know how to make your infrastructure more secure
 
 <img src="https://github.com/m0nr0e21/networksuperman/blob/main/img/photo_2026-01-04_15-53-54.jpg" width="700" height="600">
 
-<img src="https://github.com/m0nr0e21/networksuperman/blob/main/img/photo_2026-07-19_18-05-17.jpg" width="800" height="650">
+<img src="https://github.com/m0nr0e21/networksuperman/blob/main/img/photo_2026-07-19_18-05-17.jpg">
   
 
 
