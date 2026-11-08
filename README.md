@@ -1,5 +1,9 @@
 Hi, my name is Igor Panarin, also known as m0nr0e21 - a white-hat hacker with over 15 years of experience in information security, specializing in red teaming and penetration testing.
 
+Founder & Captain of CrowCrew | White Hat Hacker Team 
+
+CrowCrew - We See What Others Miss
+
 ![](https://github.com/m0nr0e21/networksuperman/blob/main/img/2026-06-12_15-53-22.png)
 
 ---
