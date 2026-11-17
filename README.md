@@ -5,6 +5,7 @@ Founder & Captain of CrowCrew | White Hat Hacker Team
 CrowCrew - We See What Others Miss  
 
 ---
+Positive Hack Camp Expert  
 ![](https://github.com/m0nr0e21/networksuperman/blob/main/img/2026-11-17_22-28-21.png)    
   
 
